@@ -44,6 +44,6 @@
 
 ![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/WeatherPy_travel_map.png?raw=true)
 
-####### The below image also shows the map displaying a marker layer with hotel information for the selected four cities in the US. 
+###### The below image also shows the map displaying a marker layer with hotel information for the selected four cities in the US. 
 
 ![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/WeatherPy_travel_map_markers.png?raw=true)
