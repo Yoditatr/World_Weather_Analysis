@@ -22,9 +22,9 @@
 
 ###### - Maximum Temperature
 ###### - Cloudiness
-######- Wind Speed
-######- Humidity
-######- Current Weather Description
+###### - Wind Speed
+###### - Humidity
+###### - Current Weather Description
 
 ###### These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination interms of weather patterns.
 
