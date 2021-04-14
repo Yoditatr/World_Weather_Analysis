@@ -18,7 +18,7 @@
 
 ### Weather Database
 
-###### This analysis uses Open Weather Map API to pull weather information on over 720 different cities around the world. That information consists of:
+###### This analysis uses Open Weather Map API to pull weather information on 720 different cities around the world. The analysis includes the follwing information:
 
 ###### - Maximum Temperature
 ###### - Cloudiness
