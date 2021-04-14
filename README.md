@@ -34,7 +34,7 @@
 
 ###### The image below shows the locations of all the places in the database that have a daily temperature between 75 and 90 degrees fahrenheit.
 
-![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/WeatherPy_vacation_map.png?raw=true)
+![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png?raw=true)
 
 ### Vacation Itinerary
 
@@ -42,8 +42,8 @@
 
 ###### The image below shows a 4 stop itinerary for cities in USA that features Ontario, Saint George, Jasper, and San Patricio.
 
-![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/WeatherPy_travel_map.png?raw=true)
+![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true)
 
 ###### The below image also shows the map displaying a marker layer with hotel information for the selected four cities in the US. 
 
-![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/WeatherPy_travel_map_markers.png?raw=true)
+![alt text](https://github.com/Yoditatr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true)
